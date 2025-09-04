@@ -6,6 +6,8 @@
 
 This project focuses on predicting Customer Satisfaction (CSAT) scores using Deep Learning Artificial Neural Networks (ANN) in the context of e-commerce. The model analyzes customer interactions and feedback to forecast CSAT scores, providing actionable insights for service improvement and enhanced customer retention.
 
+- 🎓 [Project Certification](https://verified.sertifier.com/en/verify/74954572108142/)
+
 ### 🎯 Business Context
 Customer satisfaction in the e-commerce sector is a pivotal metric that influences loyalty, repeat business, and word-of-mouth marketing. This project enables real-time CSAT prediction, offering a granular view of service performance and identifying areas for immediate improvement.
 
@@ -177,9 +179,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## 👨‍💻 Author
 
 **Hritik Rai**
-- GitHub: [@Hritikrai55](https://github.com/Hritikrai55)
-- Project Link: [CSAT-ANN-Project](https://github.com/Hritikrai55/CSAT-ANN-Project)
-
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/hritik-rai-/)
 ---
 
 *This project demonstrates the application of deep learning techniques for customer satisfaction prediction in e-commerce environments, providing valuable insights for business decision-making and service improvement.*
